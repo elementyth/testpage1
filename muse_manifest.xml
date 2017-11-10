@@ -1,0 +1,151 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elementyth.github.io/testpage1" resolutions="1x" timestamp="1510355653734">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="517322982" ref="index"/>
+    <file name="nomq_index.css" crc="152219919" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="sidebar1.jpg" crc="4146400851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-4.png" crc="4224595317" ref="index"/>
+    <file name="all in-crop-u94.jpg" crc="279445652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-4.png" crc="4103974179" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm.jpg" crc="3836530155" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm.jpg" crc="4062105493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u98-4.png" crc="3951623456" ref="index"/>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original364x183.jpg" crc="511531247" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-42.png" crc="3951962806" ref="index"/>
+    <file name="all in-crop-u942.jpg" crc="432993111" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-42.png" crc="37822819" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm62x57.jpg" crc="4034133169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm79x62.jpg" crc="3770591214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u98-42.png" crc="528335199" ref="index"/>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original305x153.jpg" crc="4173514014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidebar1601x427.jpg" crc="4226088491" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-43.png" crc="4280117779" ref="index"/>
+    <file name="all in-crop-u943.jpg" crc="3891015000" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-43.png" crc="4007944329" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm47x42.jpg" crc="3835827737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm59x46.jpg" crc="4289172187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u98-43.png" crc="64978770" ref="index"/>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original228x114.jpg" crc="60942737" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidebar1532x378.jpg" crc="4000542779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-44.png" crc="133648180" ref="index"/>
+    <file name="all in-crop-u944.jpg" crc="4251403105" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-44.png" crc="3845750979" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm42x38.jpg" crc="4189929313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm53x41.jpg" crc="288533168" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original202x101.jpg" crc="522836917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u98-44.png" crc="139959774" ref="index"/>
+    <file name="sidebar1470x334.jpg" crc="4240597768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-45.png" crc="109897766" ref="index"/>
+    <file name="all in-crop-u945.jpg" crc="3965574083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32822 pm37x33.jpg" crc="192624344" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-11-10 at 32843 pm47x36.jpg" crc="158667001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-45.png" crc="100081501" ref="index"/>
+    <file name="u98-45.png" crc="161670036" ref="index"/>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original179x90.jpg" crc="167584157" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidebar1413x293.jpg" crc="4082269854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-46.png" crc="330199877" ref="index"/>
+    <file name="all in-crop-u946.jpg" crc="4214433078" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original262x131.jpg" crc="168241093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-46.png" crc="4117598830" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32843 pm41x32.jpg" crc="250891896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u98-46.png" crc="520963206" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm32x29.jpg" crc="278967230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sidebar1322x229.jpg" crc="4251091206" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-47.png" crc="4009387218" ref="index"/>
+    <file name="all in-crop-u947.jpg" crc="124699123" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="https---cdnevbuccom-images-36435485-189150218597-1-original204x102.jpg" crc="4123788591" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u103-47.png" crc="109945651" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32843 pm32x25.jpg" crc="216155852" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u98-47.png" crc="214706567" ref="index"/>
+    <file name="screen shot 2017-11-10 at 32822 pm25x23.jpg" crc="4062455069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3963666879" seo="true" mt="1510355594251" redirect="true"/>
+</manifest>
